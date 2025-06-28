@@ -5,7 +5,7 @@ This repository contains solutions for **Assignment 1** from **Module 2: Basic P
 - Basic mathematical operations (Task 1)
 - String manipulation to create a personalized greeting (Task 2)
 
-## 📝 Task 1: Perform Basic Mathematical Operations
+## Task 1: Perform Basic Mathematical Operations
 ### Problem Statement:
 Write a Python program that:
 1. Takes two numbers as input from the user.
@@ -25,7 +25,7 @@ Subtraction: -5
 Multiplication: 50
 Division: 0.5
 
-## 📝 Task 2: Create a Personalized Greeting
+## Task 2: Create a Personalized Greeting
 ### Problem Statement:
 Write a Python program that:
 
